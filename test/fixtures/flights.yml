@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  plane: one
+  arrival: one
+  departure: one
+
+two:
+  code: MyString
+  plane: two
+  arrival: two
+  departure: two
